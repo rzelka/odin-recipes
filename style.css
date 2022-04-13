@@ -1,0 +1,40 @@
+    body {
+        background-color: hsl(288, 42%, 86%);
+        font-family: Helvetica, sans-serif;
+        margin: 30px;
+    }
+
+    a {
+        font-style: italic;
+        font-size: 1.5rem;
+    }
+
+    a:hover {
+        color: magenta;
+    }
+
+    h1 {
+        color:blueviolet;
+        font-size: 4rem;
+        text-align: center;
+    }
+
+    h2 {
+        color:rgb(226, 43, 119);
+        font-size: 2rem;
+    }
+
+    h3 {
+        color:rgb(224, 141, 175);
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1rem; 
+    }
+
+    .dish-img {
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+    }
